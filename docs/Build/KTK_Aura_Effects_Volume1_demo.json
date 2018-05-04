@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "KTK_Aura_Effects_Volume1_demo.data.unityweb",
+"asmCodeUrl": "KTK_Aura_Effects_Volume1_demo.asm.code.unityweb",
+"asmMemoryUrl": "KTK_Aura_Effects_Volume1_demo.asm.memory.unityweb",
+"asmFrameworkUrl": "KTK_Aura_Effects_Volume1_demo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
